@@ -2,6 +2,7 @@
 <link rel='stylesheet' href='home_hobby_style.css' type='text/css'>
 </head>
 <body>
+<a href="https://soutanic.github.io/home/"></a>
 <h1>[趣味]</h1>
 <p>趣味は生き物の飼育,プログラミング,TCGです。</p>
 <h2>*生き物の飼育*</h2>
